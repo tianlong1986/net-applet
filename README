@@ -1,0 +1,9 @@
+2012.04.20
+1.连接无线的客户端，原先做这个是为OOBE中添加一页网络配置页面做的
+，但后来不做这个了，目前保留这个代码，以备以后参考使用，加载的图标路径，
+以及无线密码都是在代码内部固定的，注意修改。
+net-applet
+==========
+
+a NetworkManager,s applet ， similar to nm-applet on linux desktop.
+
